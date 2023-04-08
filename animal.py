@@ -1,3 +1,5 @@
+import numpy as np
+
 # base class
 class Animal:
     
