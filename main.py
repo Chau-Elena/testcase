@@ -9,4 +9,5 @@ dog1.eat()
 dog1.sleep()
 
 # Calling member of the derived class
-dog1.bark();
+dog1.bark()
+dog1.melt()
