@@ -13,3 +13,8 @@ cat1.sleep()
 
 # Calling member of the derived class
 cat1.meow();
+
+cat2 = Cat()
+cat2.eat()
+cat2.sleep()
+cat2.meow()
