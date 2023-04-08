@@ -5,7 +5,7 @@ PYTHON = python3
 all: run
 
 # compile and run the program
-run: animal.py dog.py main.py
+run: animal.py dog.py cat.py main.py
 	$(PYTHON) main.py
 
 # remove all compiled files
