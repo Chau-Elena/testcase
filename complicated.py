@@ -6,3 +6,5 @@ class Fox:
         self.color = color
     def say(self):
         print("hi my name is " + self.name + " I am " + self.age + " years old and I am " + self.color)
+
+

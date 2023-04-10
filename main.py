@@ -1,6 +1,10 @@
 from animal import Animal
 from dog import Dog
 from cat import Cat
+
+
+
+
 # Create object of the Dog class
 dog1 = Dog()
 
